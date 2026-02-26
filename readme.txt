@@ -2,7 +2,7 @@
 
 Este repositório contém um exemplo básico de teste automatizado usando Python com a biblioteca Selenium e o framework Pytest.
 
-## 💡 Objetivo
+## Objetivo
 
 Verificar automaticamente se um nome específico aparece no conteúdo de uma página do LinkedIn, simulando a navegação em um navegador real.
 
@@ -15,7 +15,7 @@ Verificar automaticamente se um nome específico aparece no conteúdo de uma pá
   - `selenium`
   - `pytest`
 
-## 🧪 Como executar o teste
+## Como executar o teste
 
 1. Clone este repositório:
 
